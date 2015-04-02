@@ -7,7 +7,7 @@ Primeiros passos para o Git e GitHUb - https://www.youtube.com/watch?v=UMhskLXJu
 
 #Sites para treinar#
 
-https://try.github.io/
+Try Git - https://try.github.io/
 
 
 
