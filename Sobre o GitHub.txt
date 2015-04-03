@@ -1,0 +1,14 @@
+#Videos do Youtube#
+
+
+Pra que serve e como usar? -  https://www.youtube.com/watch?v=neDiLHwXSVo
+
+Primeiros passos para o Git e GitHUb - https://www.youtube.com/watch?v=UMhskLXJuq4
+
+#Sites para treinar#
+
+Try Git - https://try.github.io/
+
+
+
+ 
