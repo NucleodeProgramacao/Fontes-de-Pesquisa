@@ -1,0 +1,25 @@
+RAMO1- Media Center 
+
+OBJETIVO - Criar distribuições próprias - Media center nosso
+
+--> Apple TV 
+-Distribuições - Flexibiliade para desenvolver - Scripts Linux/Add-Ons-Skins/Media
+		- Open Elec 
+		- Osmc TV
+		- Rasp BMC
+		-Lakka TV
+
+-->Multiboot - BerryBoot/Noobs *criar para poder usar a distribuição mas recente 
+
+
+
+RAMO2- JOGOS 
+
+OBJETIVO - Jogos para Hands-on 
+
+--> Criar própria distribuição Linux
+				-Kano OS - algo paracido 
+				-Usar Raspibian - Estudar aplicações  
+				-Python 
+				-Pygame
+				-Minecraft 
